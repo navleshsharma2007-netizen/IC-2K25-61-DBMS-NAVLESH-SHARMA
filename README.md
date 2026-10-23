@@ -8,4 +8,4 @@ Contents
 
 1) Assignments: DBMS assignment solution in PDF format
 2) SQL Program: SQL queries and practical programs.
-3) 
+   
